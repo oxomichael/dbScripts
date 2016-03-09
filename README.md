@@ -1,5 +1,5 @@
 # dbScripts
-MySQL, import and export
+MySQL, import and export - only with mysqldump
 
 ## Backup
 
